@@ -1,5 +1,7 @@
-# Shinee 조 <br/>
-팀장 : 서광원 <br/>
+# JSP semi Project
+
+## Shinee 조 <br/>
+팀장 : 서광원 -회원가입 <br/>
 팀원1 : 한세희 <br/>
 팀원2 : 임하은 <br/>
 팀원3 : 안승애 <br/>
