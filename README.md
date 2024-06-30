@@ -1,5 +1,10 @@
 ### README sample (프로젝트 리드미 사용 방법)
-# 프로젝트 이름
+# Shinee 조 <br/>
+팀장 : 서광원 <br/>
+팀원1 : 한세희 <br/>
+팀원2 : 임하은 <br/>
+팀원3 : 안승애 <br/>
+
 
 <p align="center">
   <br>
@@ -96,14 +101,6 @@ Blob Image = resultSet.getBlob("Image");
 
 
 
-<br />
-트러블슈팅(trouble shooting) : 
-</p>
-
-아쉬운 점 12/13 까지 해결해야할 점
-중복된 코드 재사용 성으로 변경해서 코드 정렬
-MVC : DTO DAO
-<br>
 
 
 <!-- Stack Icon Refernces -->
