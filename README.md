@@ -1,4 +1,3 @@
-### README sample (프로젝트 리드미 사용 방법)
 # Shinee 조 <br/>
 팀장 : 서광원 <br/>
 팀원1 : 한세희 <br/>
