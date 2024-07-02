@@ -1,36 +1,24 @@
 # JSP Servlet semi Project
-SNS처럼 자신의 노래 취향을 공유하는 y2k 컨셉의 사이트입니다.
+SNS처럼 자신의 노래 취향을 공유하는 y2k 컨셉의 사이트를 구현해봤습니다.
 
 ![01](https://github.com/Yim-HaEun/semi_Project/assets/49932613/2123dea3-1f2c-49c3-9d35-a01adb64447f)
 
 ## 기술 스택
 <div>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> 
 </div>
 ## Shinee 조 <br/>
 <div>
 <p>팀장 : 서광원 -[회원가입] 정규식조건 체크,아이디 중복체크 <br/>
 팀원1 : 나세희 [로그인/둘러보기]음악,플레이리스트,유저 검색, 플레이리스트에 음악 추가, 유저 검색 후 팔로우<br/>
-<strong>팀원2 : 임하은 [마이플레이리스트]플레이리스트 생성 ,플레이리스트 삭제,내 플레이리스트 detail </strong><br/>
+<strong>팀원2 : 임하은 [마이플레이리스트]플레이리스트 생성 ,플레이리스트 삭제,내 플레이리스트 detail</strong><br/>
 팀원3 : 안승애 [마이페이지]회원정보 확인, 팔로잉 목록, 로그아웃, 회원 탈퇴, 회원정보 수정<br/>
 </p>
 </div>
 
-
-<p align="center">
-  <br/>
- 
-</p>
-
-
-
-
-<p align="center">
-
-</p>
 
 <br>
 
@@ -46,7 +34,8 @@ SNS처럼 자신의 노래 취향을 공유하는 y2k 컨셉의 사이트입니�
 
 
 ### 기능 1 : 플레이리스트 생성
-
+![myplaylist](https://github.com/Yim-HaEun/semi_Project/assets/49932613/c4d614aa-cc08-460c-a8a4-760348fcc8cd)
+<br/>
 ### 기능 2 : 플레이리스트 삭제
 
 ### 기능 3 : 플레이리스트 내 노래 목록 자세히 보기
