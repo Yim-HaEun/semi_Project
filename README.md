@@ -10,7 +10,7 @@ SNS처럼 자신의 노래 취향을 공유하는 y2k 컨셉의 사이트를 구
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> 
 </div>
-## Shinee 조 <br/>
+## Shinee 조 
 <div>
 <p>
 -팀장 : 서광원 -[회원가입] 정규식조건 체크,아이디 중복체크 <br/>
