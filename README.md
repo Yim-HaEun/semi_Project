@@ -1,9 +1,6 @@
 # JSP Servlet semi Project
-
-## 프로젝트 소개
-<p align="justify">
 SNS처럼 자신의 노래 취향을 공유하는 y2k 컨셉의 사이트입니다.
-</p>
+
 ![01](https://github.com/Yim-HaEun/semi_Project/assets/49932613/2123dea3-1f2c-49c3-9d35-a01adb64447f)
 
 ## 기술 스택
