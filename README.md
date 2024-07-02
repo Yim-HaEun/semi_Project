@@ -51,7 +51,7 @@ SNS처럼 자신의 노래 취향을 공유하는 y2k 컨셉의 사이트를 구
 ### 기능 3 : 플레이리스트 내 노래 목록 자세히 보기
 ![detail](https://github.com/Yim-HaEun/semi_Project/assets/49932613/cefb17cf-ed62-4dd0-95d9-b04a5b897e72)
 
-<br/>
+
 ![list](https://github.com/Yim-HaEun/semi_Project/assets/49932613/f0acc941-66a5-42ba-82fe-a6bfb1c64436)
 
 
