@@ -11,10 +11,13 @@ SNS처럼 자신의 노래 취향을 공유하는 y2k 컨셉의 사이트입니�
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> 
 </div>
 ## Shinee 조 <br/>
-팀장 : 서광원 -[회원가입] 정규식조건 체크,아이디 중복체크,회원db추가 <br/>
+<div>
+<p>팀장 : 서광원 -[회원가입] 정규식조건 체크,아이디 중복체크 <br/>
 팀원1 : 나세희 [로그인/둘러보기]음악,플레이리스트,유저 검색, 플레이리스트에 음악 추가, 유저 검색 후 팔로우<br/>
-팀원2 : 임하은 [마이플레이리스트]플레이리스트 생성 ,플레이리스트 삭제,내 플레이리스트 detail <br/>
+<strong>팀원2 : 임하은 [마이플레이리스트]플레이리스트 생성 ,플레이리스트 삭제,내 플레이리스트 detail </strong><br/>
 팀원3 : 안승애 [마이페이지]회원정보 확인, 팔로잉 목록, 로그아웃, 회원 탈퇴, 회원정보 수정<br/>
+</p>
+</div>
 
 
 <p align="center">
@@ -26,9 +29,6 @@ SNS처럼 자신의 노래 취향을 공유하는 y2k 컨셉의 사이트입니�
 
 
 <p align="center">
-<img src="img/image (6).png">
-<img src="img/image (7).png">
-<img src="img/detail.png">
 
 </p>
 
