@@ -6,12 +6,12 @@
 노래를 듣는 스트리밍이 주요 목적이 아닌 자신의 노래 취향을 공유하는 y2k 컨셉의 사이트입니다.
 </p>
 ## 기술 스택
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
+<div>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> 
-
+</div>
 ## Shinee 조 <br/>
 팀장 : 서광원 -[회원가입] 정규식조건 체크,아이디 중복체크,회원db추가 <br/>
 팀원1 : 나세희 [로그인/둘러보기]음악,플레이리스트,유저 검색, 플레이리스트에 음악 추가, 유저 검색 후 팔로우<br/>
