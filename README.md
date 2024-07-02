@@ -34,15 +34,14 @@ SNS처럼 자신의 노래 취향을 공유하는 y2k 컨셉의 사이트를 구
 
 
 ### 기능 1 : 플레이리스트 생성
-<br/>
+
 ![myplaylist](https://github.com/Yim-HaEun/semi_Project/assets/49932613/c4d614aa-cc08-460c-a8a4-760348fcc8cd)
-<br/>
-<p>로그인 후, 바로 Myplaylist 페이지가 뜨며
-<br/></p>
+
+<p>로그인 후, 바로 Myplaylist 페이지가 뜨며</p>
 ![new](https://github.com/Yim-HaEun/semi_Project/assets/49932613/72810278-9a65-4f68-9de3-217546ea7c56)
 <p>NEW 버튼을 누르면 공유할 플레이리스트를 생성할 수 있다.</p><br/>
 
-<p>플리 생성 페이지</p><br/>
+<p>플리 생성 페이지</p>
 ![createmy](https://github.com/Yim-HaEun/semi_Project/assets/49932613/037be969-a2e8-45f9-8682-b3cacdf6e9a3)
 
 ### 기능 2 : 플레이리스트 삭제
@@ -52,7 +51,8 @@ SNS처럼 자신의 노래 취향을 공유하는 y2k 컨셉의 사이트를 구
 ![detail](https://github.com/Yim-HaEun/semi_Project/assets/49932613/cefb17cf-ed62-4dd0-95d9-b04a5b897e72)
 
 
-![list](https://github.com/Yim-HaEun/semi_Project/assets/49932613/f0acc941-66a5-42ba-82fe-a6bfb1c64436)
+![list1](https://github.com/Yim-HaEun/semi_Project/assets/49932613/ecbd498a-bc4e-4231-962e-729b8097f011)
+
 
 
 
