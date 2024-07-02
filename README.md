@@ -3,7 +3,9 @@
 ## 프로젝트 소개
 
 <p align="justify">
-노래를 듣는 스트리밍이 주요 목적이 아닌 자신의 노래 취향을 공유하는 y2k 컨셉의 사이트입니다.
+SNS처럼 자신의 노래 취향을 공유하는 y2k 컨셉의 사이트입니다.
+![01](https://github.com/Yim-HaEun/semi_Project/assets/49932613/44fe0355-d96b-4b56-9254-2b0221f03f6e)
+
 </p>
 ## 기술 스택
 <div>
