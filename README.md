@@ -111,13 +111,15 @@ DB에 값을 넣을 때  sql문에 오타가 없는지 잘 확인해야한다고
 
 -플레이리스트 대표 사진을 다시 보여주기 위해서 이미지 BLOB을 사용했는데 이미지가 깨지는 현상이 발생했었다.<br/>
 db설계 시 이미지 컬럼을 생성해놓지 않아서 다시 추가했으며 String 값으로 받아오는 코드를 배웠다.<br/>
-<div>
+<pre>
+<code>
 Blob Image = resultSet.getBlob("Image");<br/>
 byte[] imageData = Image.getBytes(1, (int) Image.length());<br/>
 String imageBase64 = Base64.getEncoder().encodeToString(imageData);<br/>
 String image = "data:image/jpeg;base64," + imageBase64;	<br/>
 playlist = new PlayList(playlistId, playlistName,user_id,image);<br/>
-</div>
+</code></pre>
+	
 
 
 
