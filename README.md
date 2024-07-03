@@ -102,23 +102,26 @@ insert into 테이블명(컬럼명) values(1);
 5.이 후 nextval을 이용해 넘버링
 insert into 테이블명(컬럼명) values(시퀀스명.nextvalue);
 
--INSERT 문을 이용해 플레이리스트를 생성할 때, SQL문에서 VALUES 오타로 인해 DB에 저장이 안됐었다.
-생성버튼을 누르면 다시 플레이리스트 페이지로 돌아가게 됐었고 SQL문도 다시 확인했었다.
-왜 오류가 나는지 몰랐었는데 E와 S가 바뀐걸 나중에 발견해 제대로 작동되는걸 확인함 
+-INSERT 문을 이용해 플레이리스트를 생성할 때, SQL문에서 VALUES 오타로 인해 DB에 저장이 안됐었다.<br/>
+생성버튼을 누르면 다시 플레이리스트 페이지로 돌아왔고 SQL문도 다시 확인했었다.<br/>
+왜 오류가 나는지 몰라 오류잡는 데에 하루를 썼다. <br/>
+E와 S가 바뀐걸 나중에 발견해 고쳤더니 제대로 작동되는걸 확인함 <br/>
 DB에 값을 넣을 때  sql문에 오타가 없는지 잘 확인해야한다고 배우게 됨.
 
 
--플레이리스트 대표 사진을 다시 보여주기 위해서 이미지 BLOB을 사용했는데 이미지가 깨지는 현상이 발생했었다.
-db설계 시 이미지 컬럼을 생성해놓지 않아서 다시 추가했으며 String 값으로 받아오는 코드를 배웠다.
-Blob Image = resultSet.getBlob("Image");
-				byte[] imageData = Image.getBytes(1, (int) Image.length());
-				String imageBase64 = Base64.getEncoder().encodeToString(imageData);
-				String image = "data:image/jpeg;base64," + imageBase64;
+-플레이리스트 대표 사진을 다시 보여주기 위해서 이미지 BLOB을 사용했는데 이미지가 깨지는 현상이 발생했었다.<br/>
+db설계 시 이미지 컬럼을 생성해놓지 않아서 다시 추가했으며 String 값으로 받아오는 코드를 배웠다.<br/>
+<div>
+Blob Image = resultSet.getBlob("Image");<br/>
+byte[] imageData = Image.getBytes(1, (int) Image.length());<br/>
+String imageBase64 = Base64.getEncoder().encodeToString(imageData);<br/>
+String image = "data:image/jpeg;base64," + imageBase64;	<br/>
+playlist = new PlayList(playlistId, playlistName,user_id,image);<br/>
+</div>
 
-    playlist = new PlayList(playlistId, playlistName,user_id,image);
 
 
--사진을 누르면 플레이리스트 DETAIL로 넘어가도록할 때
+-사진을 누르면 플레이리스트 DETAIL로 넘어가도록할 때<br/>
 번호값을 사진에 어떻게 넣을지 고민했는데 playlist ID값을 사진 부분에 바로 넣어 그 문제를 해결했다.
 
 
