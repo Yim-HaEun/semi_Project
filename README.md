@@ -3,14 +3,21 @@ SNS처럼 자신의 노래 취향을 공유하는 y2k 컨셉의 사이트를 구
 
 ![01](https://github.com/Yim-HaEun/semi_Project/assets/49932613/2123dea3-1f2c-49c3-9d35-a01adb64447f)
 
-## 기술 스택
+## 기술 스택 및 개발환경
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> 
 </div>
+<div>
 
+	언어 : Java, HTML/CSS, JavaScript 
+ 	서버 : Apache Tomcat 9.0 
+  	프레임워크 : Spring Framework 
+ 	DB : Oracle 11g 
+  	IDE : Eclipse 
+</div>
 ## Shinee 조 
 <div>
 <p>
